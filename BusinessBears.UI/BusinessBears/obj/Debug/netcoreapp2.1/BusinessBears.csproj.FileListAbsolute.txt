@@ -1,0 +1,11 @@
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.deps.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.runtimeconfig.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.runtimeconfig.dev.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.pdb
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.csprojAssemblyReference.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.AssemblyInfo.cs
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.pdb

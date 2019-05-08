@@ -1,0 +1,9 @@
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBears.Library.deps.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBears.Library.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBears.Library.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.AssemblyInfo.cs
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBears.Library.csprojAssemblyReference.cache

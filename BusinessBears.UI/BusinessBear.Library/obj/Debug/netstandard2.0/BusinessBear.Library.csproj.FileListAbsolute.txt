@@ -1,0 +1,9 @@
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBear.Library.deps.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBear.Library.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\bin\Debug\netstandard2.0\BusinessBear.Library.pdb
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.csprojAssemblyReference.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.AssemblyInfo.cs
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBear.Library\obj\Debug\netstandard2.0\BusinessBear.Library.pdb

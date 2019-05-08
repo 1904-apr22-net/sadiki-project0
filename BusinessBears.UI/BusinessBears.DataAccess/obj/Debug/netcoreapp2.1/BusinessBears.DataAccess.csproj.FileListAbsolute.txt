@@ -1,0 +1,11 @@
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.deps.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.AssemblyInfo.cs
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.runtimeconfig.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.runtimeconfig.dev.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears.DataAccess\obj\Debug\netcoreapp2.1\BusinessBears.DataAccess.csprojAssemblyReference.cache

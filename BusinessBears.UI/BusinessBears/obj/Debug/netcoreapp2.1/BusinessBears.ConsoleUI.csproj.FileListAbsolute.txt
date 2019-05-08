@@ -1,0 +1,16 @@
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.Library.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.AssemblyInfo.cs
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.deps.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.runtimeconfig.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.runtimeconfig.dev.json
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.Library.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.csproj.CopyComplete
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\obj\Debug\netcoreapp2.1\BusinessBears.ConsoleUI.pdb
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.dll
+C:\Users\Eid\source\repos\sadiki-code\BusinessBears.UI\BusinessBears\bin\Debug\netcoreapp2.1\BusinessBears.DataAccess.pdb

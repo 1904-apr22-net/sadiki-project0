@@ -1,0 +1,17 @@
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBears.Tests.deps.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBears.Tests.runtimeconfig.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBears.Tests.runtimeconfig.dev.json
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBears.Tests.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBears.Tests.pdb
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBear.Library.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\bin\Debug\netcoreapp2.1\BusinessBear.Library.pdb
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.csprojAssemblyReference.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.AssemblyInfoInputs.cache
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.AssemblyInfo.cs
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.csproj.CopyComplete
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.dll
+C:\Users\Eid\source\repos\BusinessBears.UI\BusinessBears.Tests\obj\Debug\netcoreapp2.1\BusinessBears.Tests.pdb
